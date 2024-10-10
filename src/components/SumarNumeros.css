@@ -1,0 +1,15 @@
+button {
+  background-color: #4caf50; /* Color de fondo verde */
+  border: none; /* Sin bordes */
+  color: white; /* Texto blanco */
+  padding: 15px 32px; /* Espaciado interno */
+  text-align: center; /* Centrar texto */
+  text-decoration: none; /* Sin subrayado */
+  display: inline-block; /* Mostrar como elemento en línea */
+  font-size: 16px; /* Tamaño de fuente */
+  margin: 4px 2px; /* Espacio alrededor del botón */
+  cursor: pointer; /* Cambiar el cursor a mano cuando pases sobre el botón */
+  border-radius: 12px; /* Bordes redondeados */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+  transition: background-color 0.3s ease, transform 0.2s ease; /* Transiciones para efectos suaves */
+}
